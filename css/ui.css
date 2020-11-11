@@ -541,7 +541,7 @@ input[type=number]::-webkit-outer-spin-button {
 .progress-ring__circle {
     transition: 0.35s stroke-dashoffset;
   
-    transform: rotate(-90deg);
+    transform: rotate(90deg);
     transform-origin: 50% 50%;
 }
 #circle-container input{
